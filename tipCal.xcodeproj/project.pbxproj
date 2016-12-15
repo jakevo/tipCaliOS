@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E0CF0B11E014A9E002B0DE7 /* appInfo.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E0CF0B01E014A9E002B0DE7 /* appInfo.png */; };
 		6E1BC4261DFF867900579A55 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1BC4251DFF867900579A55 /* AppDelegate.swift */; };
 		6E1BC4281DFF867900579A55 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1BC4271DFF867900579A55 /* ViewController.swift */; };
 		6E1BC42B1DFF867900579A55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E1BC4291DFF867900579A55 /* Main.storyboard */; };
@@ -14,6 +15,8 @@
 		6E1BC4301DFF867900579A55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E1BC42E1DFF867900579A55 /* LaunchScreen.storyboard */; };
 		6E1BC43B1DFF867900579A55 /* tipCalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1BC43A1DFF867900579A55 /* tipCalTests.swift */; };
 		6E1BC4461DFF867900579A55 /* tipCalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1BC4451DFF867900579A55 /* tipCalUITests.swift */; };
+		6E1BC4541DFF89A600579A55 /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E1BC4531DFF89A600579A55 /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg */; };
+		6E1BC4561DFF9DC600579A55 /* settingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1BC4551DFF9DC600579A55 /* settingController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6E0CF0B01E014A9E002B0DE7 /* appInfo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appInfo.png; path = ../../../appInfo.png; sourceTree = "<group>"; };
 		6E1BC4221DFF867900579A55 /* tipCal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tipCal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E1BC4251DFF867900579A55 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6E1BC4271DFF867900579A55 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +51,8 @@
 		6E1BC4411DFF867900579A55 /* tipCalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipCalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E1BC4451DFF867900579A55 /* tipCalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipCalUITests.swift; sourceTree = "<group>"; };
 		6E1BC4471DFF867900579A55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E1BC4531DFF89A600579A55 /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg"; path = "../../../person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg"; sourceTree = "<group>"; };
+		6E1BC4551DFF9DC600579A55 /* settingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = settingController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +106,10 @@
 				6E1BC4251DFF867900579A55 /* AppDelegate.swift */,
 				6E1BC4271DFF867900579A55 /* ViewController.swift */,
 				6E1BC4291DFF867900579A55 /* Main.storyboard */,
+				6E1BC4551DFF9DC600579A55 /* settingController.swift */,
 				6E1BC42C1DFF867900579A55 /* Assets.xcassets */,
+				6E0CF0B01E014A9E002B0DE7 /* appInfo.png */,
+				6E1BC4531DFF89A600579A55 /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg */,
 				6E1BC42E1DFF867900579A55 /* LaunchScreen.storyboard */,
 				6E1BC4311DFF867900579A55 /* Info.plist */,
 			);
@@ -188,7 +197,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "Jake Vo";
 				TargetAttributes = {
 					6E1BC4211DFF867900579A55 = {
@@ -235,7 +244,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E1BC4541DFF89A600579A55 /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg in Resources */,
 				6E1BC4301DFF867900579A55 /* LaunchScreen.storyboard in Resources */,
+				6E0CF0B11E014A9E002B0DE7 /* appInfo.png in Resources */,
 				6E1BC42D1DFF867900579A55 /* Assets.xcassets in Resources */,
 				6E1BC42B1DFF867900579A55 /* Main.storyboard in Resources */,
 			);
@@ -264,6 +275,7 @@
 			files = (
 				6E1BC4281DFF867900579A55 /* ViewController.swift in Sources */,
 				6E1BC4261DFF867900579A55 /* AppDelegate.swift in Sources */,
+				6E1BC4561DFF9DC600579A55 /* settingController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -336,6 +348,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -385,6 +398,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -416,9 +430,10 @@
 				DEVELOPMENT_TEAM = YXRDGGLHC4;
 				INFOPLIST_FILE = tipCal/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.codepath.tipCal;
+				PRODUCT_BUNDLE_IDENTIFIER = tipCalculator1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -429,9 +444,10 @@
 				DEVELOPMENT_TEAM = YXRDGGLHC4;
 				INFOPLIST_FILE = tipCal/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.codepath.tipCal;
+				PRODUCT_BUNDLE_IDENTIFIER = tipCalculator1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -512,6 +528,7 @@
 				6E1BC44C1DFF867900579A55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6E1BC44D1DFF867900579A55 /* Build configuration list for PBXNativeTarget "tipCalTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +537,7 @@
 				6E1BC44F1DFF867900579A55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6E1BC4501DFF867900579A55 /* Build configuration list for PBXNativeTarget "tipCalUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +546,7 @@
 				6E1BC4521DFF867900579A55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

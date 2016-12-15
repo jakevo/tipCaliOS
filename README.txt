@@ -3,7 +3,7 @@
 
 Submitted by: **Jake Vo**
 
-Time spent: **20** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 This tip calculator app can calculate tips base on how user rates the service.
@@ -19,7 +19,8 @@ The following **required** functionality is complete:
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
 * [ ] UI animations
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder.
+This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
@@ -29,18 +30,27 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="//giphy.com/embed/26FLiTopw34v7lMbK" width="480" height="891" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a
-  href="http://giphy.com/gifs/26FLiTopw34v7lMbK">Video Walkthrough</a></p>
+http://giphy.com/gifs/26FLiTopw34v7lMbK
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+It is my first iOS app even with the help of the video tutorial,
+it is kind of challenging for me because when I want to implement something
+I don't actually know how and where to look for it. I went online and looked at
+a lot of tutorial but most of them were outdated or was using the old version of
+xcode and swift which made really hard for me to follow and also took me very long
+time to find the right one. For example, I didn't how to connect two view
+controllers and passing data from one to another. Like the setting page,I want
+to let user change the tip percentages but i don't know to update the change to
+the first controller and don't know what is the technical term for that. It took
+me more than 5 hours to figure out how to do it.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Jake Vo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

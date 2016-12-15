@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-http://giphy.com/gifs/26FLiTopw34v7lMbK
+http://giphy.com/gifs/l4JzfAUrBne7ifpAs
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

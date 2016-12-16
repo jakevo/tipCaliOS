@@ -15,8 +15,8 @@
 		6E1BC4301DFF867900579A55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E1BC42E1DFF867900579A55 /* LaunchScreen.storyboard */; };
 		6E1BC43B1DFF867900579A55 /* tipCalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1BC43A1DFF867900579A55 /* tipCalTests.swift */; };
 		6E1BC4461DFF867900579A55 /* tipCalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1BC4451DFF867900579A55 /* tipCalUITests.swift */; };
-		6E1BC4541DFF89A600579A55 /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E1BC4531DFF89A600579A55 /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg */; };
 		6E1BC4561DFF9DC600579A55 /* settingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1BC4551DFF9DC600579A55 /* settingController.swift */; };
+		6EA534EF1E04937900D1EEEA /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6EA534EE1E04937900D1EEEA /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,8 +51,8 @@
 		6E1BC4411DFF867900579A55 /* tipCalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipCalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E1BC4451DFF867900579A55 /* tipCalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipCalUITests.swift; sourceTree = "<group>"; };
 		6E1BC4471DFF867900579A55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6E1BC4531DFF89A600579A55 /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg"; path = "../../../person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg"; sourceTree = "<group>"; };
 		6E1BC4551DFF9DC600579A55 /* settingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = settingController.swift; sourceTree = "<group>"; };
+		6EA534EE1E04937900D1EEEA /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg"; path = "../../../person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,13 +103,13 @@
 		6E1BC4241DFF867900579A55 /* tipCal */ = {
 			isa = PBXGroup;
 			children = (
+				6EA534EE1E04937900D1EEEA /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg */,
 				6E1BC4251DFF867900579A55 /* AppDelegate.swift */,
 				6E1BC4271DFF867900579A55 /* ViewController.swift */,
 				6E1BC4291DFF867900579A55 /* Main.storyboard */,
 				6E1BC4551DFF9DC600579A55 /* settingController.swift */,
 				6E1BC42C1DFF867900579A55 /* Assets.xcassets */,
 				6E0CF0B01E014A9E002B0DE7 /* appInfo.png */,
-				6E1BC4531DFF89A600579A55 /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg */,
 				6E1BC42E1DFF867900579A55 /* LaunchScreen.storyboard */,
 				6E1BC4311DFF867900579A55 /* Info.plist */,
 			);
@@ -244,10 +244,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6E1BC4541DFF89A600579A55 /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg in Resources */,
 				6E1BC4301DFF867900579A55 /* LaunchScreen.storyboard in Resources */,
 				6E0CF0B11E014A9E002B0DE7 /* appInfo.png in Resources */,
 				6E1BC42D1DFF867900579A55 /* Assets.xcassets in Resources */,
+				6EA534EF1E04937900D1EEEA /* person-standing-full-body-outline-ios-7-interface-symbol_318-33642.jpg in Resources */,
 				6E1BC42B1DFF867900579A55 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

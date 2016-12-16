@@ -34,13 +34,13 @@ class settingController: UIViewController {
             }
             
             if (fairField.text?.isEmpty)! {
-                fairField.text = "1"
+                fairField.text = "10"
             }
             if (goodField.text?.isEmpty)! {
                 goodField.text = "15"
             }
             if (betterField.text?.isEmpty)! {
-                betterField.text = "2"
+                betterField.text = "20"
             }
             
             let poorF: String = poorField.text!

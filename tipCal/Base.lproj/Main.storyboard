@@ -20,7 +20,7 @@
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="$" textAlignment="right" minimumFontSize="17" clearButtonMode="always" id="xH2-hv-0tl">
                                 <rect key="frame" x="45" y="112" width="334" height="55"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" patternImage="F6DCE5BD-FD3B-468C-8042-D5B33F4A9EB2" colorSpace="pattern"/>
+                                <color key="backgroundColor" patternImage="5109EB47-63E6-478B-8419-7BAACCDB6996" colorSpace="pattern"/>
                                 <color key="textColor" red="0.12876042083709938" green="0.8186634837852359" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" name="Optima-Italic" family="Optima" pointSize="67"/>
                                 <textInputTraits key="textInputTraits" keyboardType="decimalPad" keyboardAppearance="alert"/>
@@ -629,7 +629,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="F6DCE5BD-FD3B-468C-8042-D5B33F4A9EB2" width="512" height="512">
+        <image name="5109EB47-63E6-478B-8419-7BAACCDB6996" width="512" height="512">
             <mutableData key="keyedArchiveRepresentation">
 YnBsaXN0MDDUAQIDBAUGPT5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK4HCBMU
 GR4fIyQrLjE3OlUkbnVsbNUJCgsMDQ4PEBESVk5TU2l6ZVYkY2xhc3NcTlNJbWFnZUZsYWdzVk5TUmVw
